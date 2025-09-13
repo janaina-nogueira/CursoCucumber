@@ -2,7 +2,7 @@
 
 Este repositório contém as implementações realizadas durante o estudo e prática de **BDD (Behavior-Driven Development)** com **Cucumber**, incluindo integração com **JUnit** e **Selenium** para execução de testes automatizados em aplicações Web.
 
-## 🧠 Aprendendo:
+##  Aprendendo:
 
 - Criar um projeto de testes automatizados com Cucumber do zero.
 - Escrever e rodar **especificações executáveis** utilizando Gherkin.
@@ -10,7 +10,7 @@ Este repositório contém as implementações realizadas durante o estudo e prá
 - Gerar **relatórios de execução** dos testes de forma prática.
 - Aplicar boas práticas de organização e manutenção dos cenários.
 
-## 📚 Conteúdo abordado:
+## Conteúdo abordado:
 
 - **Introdução ao BDD e Cucumber**
 - Escrita de cenários utilizando **Gherkin**
@@ -23,7 +23,7 @@ Este repositório contém as implementações realizadas durante o estudo e prá
 - Organização de código e **tags** para filtragem de cenários
 - Integração com Selenium para testes de interface
 
-## 🛠 Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 - **Java** – Linguagem de programação
 - **JUnit** – Framework de testes
